@@ -1,6 +1,6 @@
 <?php
 //DB.class.php
-
+//A modificar
 class DB {
 
 	protected $db_name = '';
